@@ -17,6 +17,7 @@ I own and manage the Meower Media Co. Organization/Collaboration, which was star
 1. [Meower](https://github.com/meower-media-co/) - A free, open-source, and nonprofit Social Media Platform, with it's origins from Scratch.
 2. [CloudLink](https://github.com/MikeDev101/cloudlink) - A powerful websocket client/server solution. Server written in Python, clients written in JS. Originally created for Scratch 3.0 mods.
 3. [osu!js](https://github.com/TheEggo58/osujs-master) - An osu! client written in Scratch 3.0.
+4. [Codeara](https://github.com/CodearaEditor) - A coding website and online community for advanced coders, with block-based and text-based coding editors, collaboration, addons, and more.
 
 ### Other historical/legacy projects
 1. CatChat - A club-penguin inspired game made using Scratch. (Looking into reviving this project)
