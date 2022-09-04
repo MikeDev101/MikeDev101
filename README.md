@@ -2,7 +2,7 @@
 
 I'm MikeDEV!
 
-I'm a highschool senior (Class of 2022) who enjoys computer programming and electrical engineering. I like ducks, I enjoy dark and cursed humor, I am more or less an otaku, and I also have a tendency to self-destruct when I get very tenacious with projects. I also enjoy vintage computing and old arcade machines.
+I'm a college freshman (Class of 2026) who enjoys computer programming and electrical engineering. I like ducks, I enjoy dark and cursed humor, I am more or less an otaku, and I also have a tendency to self-destruct when I get very tenacious with projects. I also enjoy vintage computing and old arcade machines.
 
 I program mainly in Python, a little bit of Javascript and a little in HTML. I'm a former Scratcher, with my history in Scratch dating all the way back to 2015.
 
