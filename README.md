@@ -1,3 +1,5 @@
+![gtk ducky lol](https://user-images.githubusercontent.com/12957745/191036250-a68ec0e1-9be1-4f23-bee0-3937ebb498ef.png)
+
 ## The Quack Attack Strikes Back!
 
 I'm MikeDEV!
