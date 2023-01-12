@@ -1,4 +1,5 @@
-![i have brain damage](https://user-images.githubusercontent.com/12957745/191037322-4d396a61-41ed-4a18-b8a9-9bc7baa28687.png)
+![happyduckl](https://user-images.githubusercontent.com/12957745/212131163-fc58ad67-7b74-4623-8aa1-4aa0bef393ad.PNG)
+Github if you are selling any ducks, hmu
 
 # The Quack Attack Strikes Back!
 
