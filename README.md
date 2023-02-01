@@ -36,6 +36,8 @@ Wanna chat?
 * Retro computing
 * Lofi
 * Electronics / electrical engineering (Thanks alot, Electroboom)
+![there is no such thing as free energy](https://user-images.githubusercontent.com/12957745/216058382-296918eb-5d55-410e-ac4b-1354f8056e3a.png)
+
 
 # Honorable Github mentions
 1. [Snakeware](https://github.com/joshiemoore/snakeware) - This is a complete Linux Distro designed to run only Python! It's a bit slow and some functionality is left to be desired, but it's really cool!
