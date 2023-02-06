@@ -21,6 +21,15 @@ Hello there! The name's Mike J. Renaker, or you can just call me MikeDEV. :)
 * Javascript - (2019-Current. I hate JS.)
 * C++ (2022-Current. Learning in College.)
 
+## Things that interest me
+* Vintage arcade machines
+* Ducks
+* Japanese culture
+* Scifi
+* Retro/vintage computing
+* Lofi
+* Electronics / electrical engineering (Thanks alot, Electroboom)
+
 # Projects
 ## Current
 ### [Meower](https://github.com/meower-media-co/)
@@ -33,16 +42,6 @@ Cloudlink was my first major project. In short, it is a websocket protocol desig
 
 ## Archived
 [@Voxalice](https://github.com/Voxalice/) hosts an archive of a bunch of my old Scratch projects. [You can check out the archive here.](https://github.com/Voxalice/MikeDEV-Archive/tree/main)
-
-## Things that interest me
-* Vintage arcade machines
-* Ducks
-* Japanese culture
-* Scifi
-* Retro/vintage computing
-* Lofi
-* Electronics / electrical engineering (Thanks alot, Electroboom)
-![there is no such thing as free energy](https://user-images.githubusercontent.com/12957745/216058382-296918eb-5d55-410e-ac4b-1354f8056e3a.png)
 
 # Github Shoutouts
 1. [Snakeware](https://github.com/joshiemoore/snakeware) - This is a complete Linux Distro designed to run only Python! It's a bit slow and some functionality is left to be desired, but it's really cool!
