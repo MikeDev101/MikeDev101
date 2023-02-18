@@ -1,6 +1,3 @@
-![happyduckl](https://user-images.githubusercontent.com/12957745/212131163-fc58ad67-7b74-4623-8aa1-4aa0bef393ad.PNG)
-Github if you are selling any ducks, hmu
-
 # The Quack Attack Strikes Back!
 
 Hello there! The name's Mike J. Renaker, or you can just call me MikeDEV. :)
