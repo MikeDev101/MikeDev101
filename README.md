@@ -1,40 +1,58 @@
-# The Quack Attack Strikes Back!
+# 🦆👋 A duck enthusiast gone quack.
+Hello there, the name's Mike Renaker, but you can call me MikeDEV. 
 
-Hello there! The name's Mike J. Renaker, or you can just call me MikeDEV. :)
+# ❔ About me
+### Pronouns (if you obsess about them)
+he/him/they/them.
 
-# About me
-* Nationality: USA. The land of screaming birds, no consumer protections, dying economy, and arguing old people.
-* Race: Filipino/German/Irish/Spanish/American.
-* Political Alignment: Some weird mix of Conservative/Republican, Green, and Anarchy. I don't really care for politics.
-* Pronouns: he/him/they/them
-* Sexuality: Hetero/Straight.
-* Education: High-School Alumni (Class of 2022), College Freshman (Class of 2026).
-* Favorite food: Mochi ice cream.
-* Android or iOS: Android.
+### Race
+Just a boiling pot white guy.
+I'm part 🇺🇸 American, 🇵🇭 Filipino, 🇩🇪 German, 🇮🇪 Irish, and 🇪🇸 Spanish.
 
-## Programming languages
-* Python (2018-Current. Mostly self-taught, learned more in High School.)
-* Scratch (2015-2022. Lost interest in Scratch.)
-* Javascript - (2019-Current. I hate JS.)
-* C++ (2022-Current. Learning in College.)
+### 💬 Political alignment
+I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective.
 
-## Things that interest me
-* Vintage arcade machines
-* Ducks
-* Japanese culture
-* Scifi
-* Retro/vintage computing
-* Lofi
-* Electronics / electrical engineering (Thanks alot, Electroboom)
+### 🖥️ Operating Systems connoisseur
+* 🪟 Windows (Primary workstation OS)
+* 🍎 macOS (Casual OS)
+* 🐧 Linux (Home lab/Server OS)
 
-# Projects
+### 📜 My Education
+* High School Alumni - Class of 2022
+* College Sophomore - Class of 2026
+
+### 📱 I have too many smartphones
+* Google Pixel 5a (Primary)
+* OnePlus N200 5G (Backup)
+* Samsung Galaxy Note 3 (Just for fun)
+* A dollar store Coolpad (Useless)
+* TMobile Revvl (Useless)
+* LG G4 (Currently bricked)
+
+### 👨‍💻 Programming languages
+* 🐈 Scratch (2015-2022)
+* 🐍 Python (2018-Current)
+* 🟨 Javascript (2019-Current)
+* 🟦 C++ (2022-2023)
+* 🟦 GoLang (2023-Current)
+
+### 🤔 Things that interest me
+* 🎮 Vintage arcade machines
+* 🦆 Ducks
+* 🗾 Japanese culture
+* 👾 Scifi
+* 💻 Retro/vintage computing
+* 🎵 Lofi
+* 🔌 Electronics / electrical engineering (Thanks alot, Electroboom)
+
+# 🛠️ Projects
 ## Current
-### [Meower](https://github.com/meower-media-co/)
+### 🐈 [Meower](https://github.com/meower-media-co/)
 Meower is a nonprofit, free and open-source social media platform with humor, friendliness, and privacy in mind. Our ultimate goal is to create a place that's ethical for it's users and convenient to use. 
 
 My primary role in Meower is to function as it's Chief Executive Officer. I also take care of content moderation, backend development, cybersecurity, infrastructure maintenance, and systems administration. I used to be a frontend developer, I made possible the original Meower client: [Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla). I've retired as a Scratch programmer, and this client is retiring as well.
 
-### [CloudLink](https://github.com/MikeDev101/cloudlink)
+### 🌐 [CloudLink](https://github.com/MikeDev101/cloudlink)
 Cloudlink was my first major project. In short, it is a websocket protocol designed for use with Scratch 3.0 modded IDEs. The original backend is written in Python, and the client is written using Javascript as a Scratch 3.0 extension. When I joined Meower, it also became a major part of Meower's history.
 
 ## Archived
