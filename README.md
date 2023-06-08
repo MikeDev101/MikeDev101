@@ -39,7 +39,7 @@ I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective
 ### 🤔 Things that interest me
 * 🎮 Vintage arcade machines
 * 🦆 Ducks
-* 🗾 Japanese culture
+* 🇯🇵 Japanese culture
 * 👾 Scifi
 * 💻 Retro/vintage computing
 * 🎵 Lofi
