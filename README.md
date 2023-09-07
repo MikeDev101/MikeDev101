@@ -66,7 +66,6 @@ Cloudlink was my first major project. In short, it is a websocket protocol desig
 
 # Wanna chat?
 * Email: mike@meower.org
-* Meower: @MikeDEV
-* Twitter: @MDev101
-* Discord: MikeDEV#9600
+* Meower: [here](https://app.meower.org/users/MikeDEV)
+* Discord: @MikeDEV
 * YouTube: [Here](https://www.youtube.com/@mikedev101)
