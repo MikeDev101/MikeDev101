@@ -67,7 +67,6 @@ Cloudlink was my first major project. In short, it is a websocket protocol desig
 3. [stm-bmc](https://github.com/evilwombat/stm-bmc) - A Bubble Memory controller made using modern electronics!
 
 # Wanna chat?
-* Email: mike@meower.org
-* Meower: [here](https://app.meower.org/users/MikeDEV)
-* Discord: @MikeDEV
-* YouTube: [Here](https://www.youtube.com/@mikedev101)
+* Email: [mike@meower.org](mailto://mike@meower.org)
+* Meower: [@MikeDEV](https://app.meower.org/users/MikeDEV)
+* YouTube: [@mikedev101](https://www.youtube.com/@mikedev101)
