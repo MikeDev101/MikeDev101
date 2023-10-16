@@ -1,3 +1,5 @@
+![oh hello there](https://github.com/MikeDev101/MikeDev101/assets/12957745/600921cb-d0af-4965-a20b-eca941ada6a6)
+
 # 🦆👋 A duck enthusiast gone quack.
 Hello there, the name's Mike Renaker, but you can call me MikeDEV. 
 
