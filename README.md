@@ -50,16 +50,20 @@ I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective
 
 # 🛠️ Projects
 ## Current
+
+### 🌐 [CloudLink Omega](https://github.com/cloudlink-omega)
+Cloudlink Omega is my current major project. It will be Scratch 3's first WebRTC-powered online multiplayer network.
+
 ### 🐈 [Meower](https://github.com/meower-media-co/)
 Meower is a nonprofit, free and open-source social media platform with humor, friendliness, and privacy in mind. Our ultimate goal is to create a place that's ethical for it's users and convenient to use. 
 
 My primary role in Meower is to function as it's Chief Executive Officer. I also take care of content moderation, backend development, cybersecurity, infrastructure maintenance, and systems administration. I used to be a frontend developer, I made possible the original Meower client: [Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla). I've retired as a Scratch programmer, and this client is retiring as well.
 
-### 🌐 [CloudLink](https://github.com/MikeDev101/cloudlink)
-Cloudlink was my first major project. In short, it is a websocket protocol designed for use with Scratch 3.0 modded IDEs. The original backend is written in Python, and the client is written using Javascript as a Scratch 3.0 extension. When I joined Meower, it also became a major part of Meower's history.
-
 ## Archived
 [@Voxalice](https://github.com/Voxalice/) hosts an archive of a bunch of my old Scratch projects. [You can check out the archive here.](https://github.com/Voxalice/MikeDEV-Archive/tree/main)
+
+### 🌐 [CloudLink](https://github.com/MikeDev101/cloudlink)
+Cloudlink was my first major project. In short, it is a websocket protocol designed for use with Scratch 3.0 modded IDEs. The original backend is written in Python, and the client is written using Javascript as a Scratch 3.0 extension. When I joined Meower, it also became a major part of Meower's history.
 
 # Github Shoutouts
 1. [Snakeware](https://github.com/joshiemoore/snakeware) - This is a complete Linux Distro designed to run only Python! It's a bit slow and some functionality is left to be desired, but it's really cool!
