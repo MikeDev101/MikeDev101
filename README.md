@@ -33,11 +33,12 @@ I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective
 * LG G4 (Fixed but slow af)
 
 ### 👨‍💻 Programming languages
-* 🐈 Scratch (2015-2022)
-* 🐍 Python (2018-Current)
+* 🐈 Scratch (2015-Current)
+* 🐍 Python (2018-2023)
 * 🟨 Javascript (2019-Current)
 * 🟦 C++ (2022-2023)
-* 🟦 GoLang (2023-Current)
+* 🟪 C# (2023-Current)
+* 🟦 Go (2023-Current)
 
 ### 🤔 Things that interest me
 * 🎮 Vintage arcade machines
