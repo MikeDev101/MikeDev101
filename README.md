@@ -3,6 +3,9 @@
 # 🦆👋 A duck enthusiast gone quack.
 Hello there, the name's Mike Renaker, but you can call me MikeDEV. 
 
+# [My Gitea](https://git.mikedev101.cc/)
+Some of my future projects will be hosted here.
+
 # ❔ About me
 ### Pronouns (if you obsess about them)
 he/him/they/them.
