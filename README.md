@@ -27,13 +27,13 @@ I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective
 * College Sophomore - Class of 2026
 
 ### 📱 I have too many smartphones
-* Google Pixel 6 (Primary)
-* Google Pixel 5a (Backup)
-* OnePlus N200 5G (Now my brother's phone)
-* Samsung Galaxy Note 3 (Just for fun)
-* A dollar store Coolpad (Useless)
-* TMobile Revvl (Useless)
-* LG G4 (Fixed but slow af)
+* Google Pixel 6
+* Google Pixel 5a
+* OnePlus N200 5G
+* Samsung Galaxy Note 3
+* A dollar store Coolpad Rouge
+* TMobile Revvl
+* LG G4 F500 USU'd
 
 ### 👨‍💻 Programming languages
 * 🐈 Scratch (2015-Current)
