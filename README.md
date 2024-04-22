@@ -27,6 +27,7 @@ I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective
 * College Sophomore - Class of 2026
 
 ### 📱 I have too many smartphones
+* Google Pixel 8 (Primary)
 * Google Pixel 6
 * Google Pixel 5a
 * OnePlus N200 5G
@@ -36,6 +37,7 @@ I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective
 * LG G4 F500 USU'd
 
 ### 👨‍💻 Programming languages
+* 🟦 Typescript (2024-Current)
 * 🐈 Scratch (2015-Current)
 * 🐍 Python (2018-2023)
 * 🟨 Javascript (2019-Current)
