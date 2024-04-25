@@ -58,12 +58,14 @@ I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective
 ## Current
 
 ### 🌐 [CloudLink Omega](https://github.com/cloudlink-omega)
-Cloudlink Omega is my current major project. It will be Scratch 3's first WebRTC-powered online multiplayer network.
+Cloudlink Omega is a WebRTC-powered 
 
 ### 🐈 [Meower](https://github.com/meower-media-co/)
-Meower is a nonprofit, free and open-source social media platform with humor, friendliness, and privacy in mind. Our ultimate goal is to create a place that's ethical for it's users and convenient to use. 
+Meower is a free and open-source social media platform that respects your privacy.
 
-My primary role in Meower is to function as it's Chief Executive Officer. I also take care of content moderation, backend development, cybersecurity, infrastructure maintenance, and systems administration. I used to be a frontend developer, I made possible the original Meower client: [Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla). I've retired as a Scratch programmer, and this client is retiring as well.
+Formerly project manager, now residing as Meower's server host, backend developer and community moderator.
+
+I was responsible for making the first Meower client, [Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla). 
 
 ## Archived
 [@Voxalice](https://github.com/Voxalice/) hosts an archive of a bunch of my old Scratch projects. [You can check out the archive here.](https://github.com/Voxalice/MikeDEV-Archive/tree/main)
