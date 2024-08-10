@@ -60,18 +60,18 @@ I'm a politicaly uninterested 🐘 conservative. I live by a neutral perspective
 ### 🌐 [CloudLink Omega](https://github.com/cloudlink-omega)
 Cloudlink Omega is a WebRTC-powered 
 
-### 🐈 [Meower](https://github.com/meower-media-co/)
-Meower is a free and open-source social media platform that respects your privacy.
-
-Formerly project manager, now residing as Meower's server host, backend developer and community moderator.
-
-I was responsible for making the first Meower client, [Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla). 
-
 ## Archived
 [@Voxalice](https://github.com/Voxalice/) hosts an archive of a bunch of my old Scratch projects. [You can check out the archive here.](https://github.com/Voxalice/MikeDEV-Archive/tree/main)
 
 ### 🌐 [CloudLink](https://github.com/MikeDev101/cloudlink)
 Cloudlink was my first major project. In short, it is a websocket protocol designed for use with Scratch 3.0 modded IDEs. The original backend is written in Python, and the client is written using Javascript as a Scratch 3.0 extension. When I joined Meower, it also became a major part of Meower's history.
+
+### 🐈 [Meower](https://github.com/meower-media-co/)
+Meower is a free and open-source social media platform that respects your privacy.
+
+I was Meower's second owner and served as a system administrator, US East server host, backend developer and moderator for several years. I decided to leave the project on August 9th, 2024. If you're looking for a platform that respects you as a Human and upholds your privacy rights, I highly suggest you check them out!
+
+I was also responsible for making the first Meower client, [Meower-Vanilla](https://github.com/meower-media-co/Meower-Vanilla). 
 
 # Github Shoutouts
 1. [Snakeware](https://github.com/joshiemoore/snakeware) - This is a complete Linux Distro designed to run only Python! It's a bit slow and some functionality is left to be desired, but it's really cool!
