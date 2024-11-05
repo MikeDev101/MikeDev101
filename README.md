@@ -12,3 +12,9 @@ The name's Mike Renaker, but you can call me MikeDEV.
 
 [@MikeDEV](https://app.meower.org/users/MikeDEV) on Meower
 [@mikedev101](https://www.youtube.com/@mikedev101) on YouTube
+
+# Status Pages
+Powered by [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+
+### [Personal Services](https://status.mikedev101.cc/status/something)
+### [CloudLink Omega](https://status.mikedev101.cc/status/clomega)
