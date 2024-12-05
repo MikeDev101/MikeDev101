@@ -7,10 +7,7 @@ The name's Mike Renaker, but you can call me MikeDEV.
 
 **Ethnicity:** 🇺🇸/🇵🇭/🇩🇪/🇮🇪/🇪🇸
 
-**Taken**: perhaps
-
-
-[@MikeDEV](https://app.meower.org/users/MikeDEV) on Meower
+[@MikeDEV](https://darflen.com/users/mikedev) on Darflen (May Meower rest peacefully)
 [@mikedev101](https://www.youtube.com/@mikedev101) on YouTube
 
 # Status Pages
