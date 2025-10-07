@@ -7,11 +7,11 @@ The name's Mike Renaker, but you can call me MikeDEV.
 
 **Ethnicity:** 🇺🇸/🇵🇭/🇩🇪/🇮🇪/🇪🇸
 
-[@MikeDEV](https://darflen.com/users/mikedev) on Darflen (May Meower rest peacefully)
+[@MikeDEV](https://darflen.com/users/mikedev) on Darflen
+[@mikedev](https://wasteof.money/users/mikedev) on Wasteof.Money
 [@mikedev101](https://www.youtube.com/@mikedev101) on YouTube
 
 # Status Pages
 Powered by [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 ### [Personal Services](https://status.mikedev101.cc/status/something)
-### [CloudLink Omega](https://status.mikedev101.cc/status/clomega)
